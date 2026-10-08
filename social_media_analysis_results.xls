@@ -1,0 +1,7 @@
+Text,Sentiment,Sentiment Confidence,Emotion,Emotion Confidence
+"I love this product, it is amazing!",Positive,0.7069897055625916,Surprise,0.7140957169394333
+This is the worst experience ever.,Positive,0.6068291068077087,Joy,0.43582488463906993
+I am scared about the result.,Positive,0.5377109050750732,Fear,0.9976482684716214
+I am extremely happy today.,Positive,0.7075986266136169,Joy,0.8190822213412922
+I hate this service.,Negative,0.5187748074531555,Sadness,0.34319021713202796
+I miss my old friends.,Positive,0.6309342980384827,Joy,0.3474828922852951
